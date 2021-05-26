@@ -1,0 +1,7 @@
+echo "# money" >> README.md 
+git init 
+git เพิ่ม README.md 
+git 
+comm -m "first comm " git branch -M main 
+git remote add origin https://github.com/Nightmare8K/money.git
+ git push - ต้นกำเนิดหลัก
